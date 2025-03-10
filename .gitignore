@@ -1,0 +1,23 @@
+# Ignore system files
+_MACOSX/
+
+# Ignore virtual environment
+venv/
+
+# Ignore logs and experiment runs
+mlruns/
+runs/
+
+# Ignore model weights and artifacts
+models/
+artifacts/
+*.onnx
+*.pth
+
+# Ignore datasets
+data/
+
+# Ignore temporary or cache files
+__pycache__/
+*.log
+*.tmp

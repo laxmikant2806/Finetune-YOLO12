@@ -1,0 +1,12 @@
+ultralytics
+torch
+torchvision
+PyYAML
+mlflow
+seaborn
+matplotlib
+pandas
+pillow
+PyYAML
+requests
+opencv-python
